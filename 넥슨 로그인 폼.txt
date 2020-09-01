@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<style>
+	body {
+		background-image: url(https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F01%2Fnexon-founder-selling-controlling-stake-00.jpg?q=90&w=1400&cbr=1&fit=max);background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 20%
+    
+
+
+	}
+</style>
+
+
+
+
+
+
+<style>
+ form{
+   width: 300px;
+   margin:170px auto;
+   border: 1px solid gray;
+   border-radius: 5px;
+   padding: 15px;
+ }
+  p{
+    display: block;
+    margin-top: 10px;
+  }
+  input{
+    margin-top: 5px;
+  }
+  input{
+    margin: 10px auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<form action="www.naver.com">
+  <p>아이디:<input type="text" name="id"> </p>
+  <p>비밀번호:<input type="text"name="password" name="pwd"</p>
+  <button>로그인</button>
+  </form>
+  <p><a href="www.naver.com">아이디 찾기</a></p>   <p><a href="www.naver.com">비밀번호 찾기</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+   <style>
+     ul{
+          list-style-type:none;
+          margin: 0;
+          padding: 0;
+     }
+     li {display:inline;}
+     </style>
+
+    <ul>
+
+     <li><a href="www.naver.com">홈으로 돌아가기</a></li>
+     <li><a href="www.google.com">로그인하기</a></li>
+     <li><a href="www.naver.com">회원가입</a></li>
+     
+
+    </ul>
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<Style>
+  body{
+    background-image: url(https://t1.daumcdn.net/cfile/tistory/266E5F4451E8D7540A);
+    backgoround-repeat: no-repeat;
+    background-size: cover;
+  }
+  </style>
+
+ <body>
+	<script src="script.js">
+	</script>
+	<style>
+		h1 {
+			color: white;
+			text-align: center;
+			padding-top: 55px;
+			font-size: 100px;
+			font-family: 'Vibes', cursive;
+			font-family: 'Raleway', sans-serif;
+			font-family: 'Mansalva', cursive;
+		}
+	</style>
+	<h1>Google</h1>
+
+
+	<style>
+		div {
+			display: block;
+			margin: 0 auto;
+			width: 600px;
+			height: 40px;
+		}
+
+		input {
+			font-size: 16px;
+			width: 325px;
+			width: 325px;
+			padding: 10px;
+			border: 0px;
+			outline: none;
+			float: left;
+		}
+
+		button {
+			width: 50px;
+			height: 100%;
+			border: 0px backgorund: #1b5ac2;
+			outline: none;
+			float: right;
+			color: #ffffff
+		}
+	</style>
+
+
+	<div>
+		<input type="text" placeholder="search 혹은 URL 입력">
+        <a href="www.naver.com" target="_blank"><button>search</button></a>
+      </div>
+    
+  </body>
+</html>

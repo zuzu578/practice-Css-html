@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>바보~ 속았지? ^ㅡ^</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+     
+
+
+    
+    <script src="script.js"></script>
+    
+    <h1> <h1 style="text-align:center;color:red">You are an idiot! Ahahahahahahaha! hahahahaha!</h1>
+  
+   <p align = "middle"> <video src =https://r6---sn-i3b7kn76.googlevideo.com/videoplayback?expire=1595771339&ei=azUdX-qfA8ud3LUPwv-KsAQ&ip=14.207.123.23&id=o-APx2KKndnVMoAK7k2C_iHcr3Oc7UbFU8iitp308kU4vw&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=1020921&ratebypass=yes&dur=29.048&lmt=1540789085385669&fvip=8&fexp=23883097&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgdm3M2tT1VsKWSLf8NMe51CTwLpUKUK9wfF_SSwtf2ZoCIQDuAhuSJYMK_VirHanTUkporLtYQD6n64GQPh_boyw_0w%3D%3D&video_id=48rz8udZBmQ&title=You+are+an+idiot%21%21&rm=sn-w5nuxa-3que7z,sn-w5nuxa-c33er7r,sn-30al67d&req_id=8179da12bb0a3ee&redirect_counter=3&cms_redirect=yes&ipbypass=yes&mh=7Z&mip=117.111.2.119&mm=30&mn=sn-i3b7kn76&ms=nxu&mt=1595749516&mv=m&mvi=6&pl=26&usequic=no&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,usequic&lsig=AG3C_xAwRgIhAObvtUFO3hgd3KejswmcVl-hBLaWwpbXz_eX5JtzvSyqAiEA4lo0uGdAowAsqJV3D17OX-P9tyUScBg5zA-btmgre4Y%3D /autoplay controls> </p>
+
+  </body>
+  <h2> <h2 style="text-align:center; color:blue"> STUPID IDIOT!!</h2> 
+  <button type="button" onclick="alert('바보 또속았네~ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ')">뒤로 돌아가기</button>
+  <button type="button" onclick="alert('10초뒤 당신의 pc가 강제 종료됩니다.')">바탕화면으로 돌아가기</button>
+
+   
+</button>
+  </body>
+</html>

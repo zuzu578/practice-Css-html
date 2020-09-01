@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body{
+      background-image:url(http://www.sjcopy.com/app/dubu_board/docs/imgs/f/lg_f14961300246547_01.%EC%98%A5%EC%83%89.jpg);
+      background-repeat:no-repeat;
+      background-size: cover;
+    }
+    </style>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>wiki</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  
+<h1 style="color:green;text-align:center";>모두가 함께하는 지식의 정보공간 나무위키 대문</h1>
+  
+
+  <form action="www.naver.com"
+
+  <p>아이디:<input type="text" name="id" </p>
+  <p>비밀번호:<input type="password" name="psw" </p>
+  <input type="submit" >
+  </form>
+  <form action="https://namu.wiki/w/%EC%A0%95%EC%B9%98"
+	<div>
+		<input type="text" name="search" placeholder="검색">
+   
+      <button>검색</button>
+    <style>
+    .item {
+      color : black;
+    }
+    </style>
+    
+    <div class="item">안녕하세요! 모두가 함께 공유할수있는 정보공간입니다.
+      <style type="text/css">
+      .my-box{border:1px solid; padding:10px}
+      </style>
+       
+
+
+      <div class="my-box">
+         공지사항
+         <ul>
+           <li> 2020년 8월 프로젝트 종료 안내
+최근 한 달 동안 활동이 없는 프로젝트가 종료 예정입니다. 이의 제기를 통하여 종료를 취소할 수 있습니다. 의견이 있으신 분은 이 토론에서 이의 제기를 해주시기 바랍니다. 이의 제기 기간은 KST 2020-08-05 23:59:59까지입니다.</li>
+<li>나무위키:기본방침/이용자 관리 방침에서 사용자 문서 관련 규정이 개정되었습니다.<a href="https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9D%B4%EC%9A%A9%EC%9E%90%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=391&oldrev=390"</a> 변경 내용 보기 </li>
+
+<li>나무위키:기본방침/이용자 관리 방침에서 토론 내 근거 제시, 합의안 관련 규정이 개정되었습니다.<a href="https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9D%B4%EC%9A%A9%EC%9E%90%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=392&oldrev=391"</a>변경 내용 보기</li>
+
+<li>나무위키:편집지침/특정 분야에서 선수 프로필 표에 적힌 구단 명칭에 볼드체를 제외한 꾸미기 효과 금지 관련 규정이 개정되었습니다. <a href="https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%ED%8A%B9%EC%A0%95%20%EB%B6%84%EC%95%BC?rev=553&oldrev=552"</a>변경 내용 보기</li>
+
+<li>나무위키:기본방침/이용자 관리 방침에서 토론 관련 규정 일부가 나무위키:기본방침/토론 관리 방침으로 이동되었습니다.<a href="https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=350&oldrev=349"</a>변경 내용 보기</li>
+
+<li>나무위키:편집지침/특정 분야에서 재보선 '선거 가능성이 있는 지역' 등재기준 상급심 관련 명확화 관련 규정이 개정되었습니다. <a href="https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%ED%8A%B9%EC%A0%95%20%EB%B6%84%EC%95%BC?rev=555&oldrev=554"</a> 변경 내용 보기</li>
+
+
+
+
+        </div>
+        <div class="my-box">
+          최근 운영 토론 
+          <ul>
+            <il>현재 진행 중인 운영 토론이 없습니다.</il>
+          </ul>
+          <a href="https://namu.wiki/w/%ED%8B%80:%EC%9A%B4%EC%98%81%ED%86%A0%EB%A1%A0" 최근 운영 토론 </a>
+
+     
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

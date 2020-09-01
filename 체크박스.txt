@@ -1,0 +1,3 @@
+이름<input type="text" />
+동의 <input type= "checkbox" />
+취소 <input type="radio" />

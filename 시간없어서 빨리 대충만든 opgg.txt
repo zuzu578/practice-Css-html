@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+  <style>
+    body{
+      background-image: url(https://i.pinimg.com/564x/de/2a/43/de2a43e4f4847e26d1e3f0aff522e2d6.jpg);
+      background-repeat: no- repeat;
+      background-size: cover;
+    }
+    }
+   h1{
+      color: blue;
+      text-align: center
+      
+    }
+    div{
+      text-align: center 
+    }
+    </style>
+   <h1>OP.GG</h1>
+
+   <A>
+      <input type="text" placeholder=소환사 명>
+      <button>.GG</button>
+   <div style="border: 10px solid white; padding: 10px;">OP.GG Talk 인기글</div>
+   <ul>
+     <a href=https://talk.op.gg/s/lol/free/2693646/%EA%B4%91%EC%A3%BC-%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88-%EC%82%AC%EA%B1%B4 target="_blank"><li>광주 람보르기니 잼민이 사건 </li></a>
+     <li>부엉아 탕수육 부어?</li>
+
+     <li>와 개노답!(초딩편)</li>
+     <li>세트</li>
+     <li>간호사 아칼리 실사판</li>
+
+
+</html>

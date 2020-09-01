@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    
+    <div style="text-align:center;">
+      <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+    </div>
+    
+  </body>
+  <style>
+    header{
+      position: fixed;
+      top: 0;
+      width: 100%;
+      left: 0;
+      right: 0;
+    }
+    </style>
+  <header>
+  
+    
+    <nav>
+      <span><a href= "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.pngGmail">Gmail</a></span>
+      <span><a href="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">이미지</a></span>
+    </nav>
+  </header>
+  
+<style>
+
+#search{
+  display: block;
+  margin: 0 auto;
+  width:600px;
+  height:50px;
+}
+</style>
+
+
+
+
+
+
+<input type="text" placeholder='Google검색 또는 url입력' id="search">
+

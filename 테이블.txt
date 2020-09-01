@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" 
+    />
+    <table border="6">
+    <tr>
+    <th>이름</th> <td> 성별</td>  <td>주소</td> <td>회비</td>
+    
+    </tr>
+    <tr>
+    <td>최진혁</td> <td> 남</td> <td rowspan="2">청주</td> <td>1000</td>
+    </tr>
+    <tr>
+      <td> 이주환</td> <td> 남 </td> <td>1000</td>
+      <tr>
+        <td clospan="1">합계</td> <td>1500</td>
+      </tr>
+    </tr>
+    </table>
+     </head>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>

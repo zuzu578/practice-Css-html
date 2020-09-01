@@ -1,0 +1,18 @@
+<html>
+  <head>
+     <title> 오순도순의 홈페이지 </title>
+    <link href="style.css" rel="stylesheet" type="text/css"  />
+   <neta name="description" content="오순도순 의 문서">
+    </head>
+   <body>
+    
+    <h1>안녕하세요</h1>
+    <h2>안녕하세요</h2>
+
+
+
+    <b>안농하세용!</b>
+    <i>안녕이야~~</i>
+    <p>안녕하세요 저는 오순도순입니다!</p>
+    <img src="https://img1.daumcdn.net/thumb/R720x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2Fmk%2Fe43ffd53a36846f9ab75f35ec0002757.png" />
+    <video src=https://r4---sn-i3belnel.googlevideo.com/videoplayback?expire=1595578908&ei=vEUaX-XkLIiX3LUPyLSGmAU&ip=1.0.180.101&id=o-AEHaOI-GKQ8_jinPVXbJr9jvF_s41470WTaM1r3GzGRl&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=12991323&ratebypass=yes&dur=140.736&lmt=1575315311750624&fvip=4&fexp=23883097&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANfS8uRvOzh6VVzN12Hj8DJFkhxkDx73aeS_-CuIdoHWAiBDSkew1TQFeNaFFZtlLnT_WIJKyW5sjAq9JoH6zII_Ng%3D%3D&video_id=1kAJxLPSCG0&title=Alan+Walker%2C+Sabrina+Carpenter+%26+Farruko+-+On+My+Way+%28Ryan+Enzed+Remix%29&rm=sn-uvu-c33ez7k,sn-30al67z&req_id=2028be0c6b5aa3ee&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=nt&mip=117.111.2.10&mm=30&mn=sn-i3belnel&ms=nxu&mt=1595557331&mv=m&mvi=4&pl=26&usequic=no&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,usequic&lsig=AG3C_xAwRAIgWv0ZajSqf0wELEFE6BcQs4V37ogOC6uo0tKkNeD5VN0CIFzNpkFndqpODgz4c16KSxIqenSdEQcJ74LU4nBwQMIS  controls />

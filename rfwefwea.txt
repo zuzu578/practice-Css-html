@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script src="script.js">
+	</script>
+	<h1>FOW.KR</h1>
+</head>
+
+<body>
+	<style>
+		div {
+      
+			height: 40px;
+			width: 400px;
+			border: 1px solid #1b5ac2;
+			background: #ffffff;
+		}
+
+		input {
+
+			font-size: 16px;
+			width: 325px;
+			padding: 10px;
+			border: 0px;
+			outline: none;
+			float: left;
+		}
+
+		button {
+
+			width: 50px;
+			height: 100%;
+			border: 0px background: #1b5ac2;
+			outline: none;
+			float: right;
+			color: #ffffff
+		}
+    ul{
+      backgroubnd-color: #FFDAB9;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      
+    }
+   li{
+     display: inline;
+     background: block;
+     background-color: #FFDAB9;
+     color: #000000;
+     padding: 8px;
+     text-decoration: none;
+     text-align: center;
+     font-weight: bold;
+   }
+     li: hover{
+       background-color: #CD853F;
+       color: white;
+     }
+  
+    
+	</style>
+
+	<div>
+		<input type="text" placeholder="소환사명 입력">
+    <button>검색</button>
+    </div>
+    <ul>
+      <li><a href="www.naver.com"</a>홈</li>
+      <li><a href="www.naver.com"</a>관전하기</li>
+      <li><a href="www.naver.com"</a>다시보기</li>
+      <li><a href="www.naver.com"</a>챔피언</li>
+      <li><a href="www.naver.com"</a>챔피언통계</li>
+      <li><a href="www.naver.com"</a>랭킹</li>
+      <li><a href="www.naver.com"</a>자유랭킹</li>
+      <li><a href="www.naver.com"</a>장인랭킹</li>
+      <li><a href="www.naver.com"</a>픽순위</li>
+      <li><a href="www.naver.com"</a>밴순위</li>
+      <li><a href="www.naver.com"</a>멀티서치</li>
+    </ul>
+      <style type='text/css'>
+      .my-box{
+        border: 1px solid;
+        padding: 10px;
+      }
+     </style>
+
+     <div class="my-box">
+       - 최근 패치 내용
+       <ol>
+      <li>10.15 패치 내용 보기</li>
+       </ol>
+       <ol>
+      <li>10.14 패치 내용 보기</li>
+       </ol>
+     </div>
+
+  </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+	 crossorigin="anonymous">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<style>
+		body {
+			background-image: url(https://attach.s.op.gg/logo/20200807131153.6d08028cd7748df1cac12949462de0b2.png);
+			background-repeat: no-repeat;
+			background-size: 30%;
+			background-color: #4285f4;
+			background-position: center;
+			margin: 20%;
+
+
+		}
+	</style>
+
+
+</head>
+
+<body>
+	<style>
+	</style>
+	<form-action:"www.google.com">
+		<div class="mx-auto mt-5 search-bar input-group mb-3">
+			<input type="text" class="form-control" placeholder="소환사명,소환사명..." aria-label="Recipient's username" aria-describedby="button-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-outline-secondary" type="button" id="button-addon2">.GG</button>
+    
+
+  </div>
+  
+</div>
+      </form>
+      <body>
+
+        <style type="text/css">
+        .my-box{
+          boder:1px solid; padding: 10px;
+        }
+            
+
+
+
+
+
+
+
+          </style>
+
+          <div class="my-box">
+            OP.GG Talk 인기글
+          </div>
+
+
+
+
+

@@ -1,0 +1,21 @@
+<html>
+  <title>Life if Life</title>
+    <link href="style.css" rel="stylesheet"
+    type="text/css"
+    <meta name = "description" content="my documents"
+    
+   
+      </style>
+      <body>
+        <div class = "item"><h1>더 많은 서비스를 이용하시려면 로그인 해주세요.</h1> </div>
+      아이디<input type ="text" />
+      비밀번호<input type ="text" />
+      남자<input type = "radio" />
+      여자<input type = "radio" />
+      <button name = "button"> 확인 </button>
+      <button name = "button"> 홈으로 돌아가기 </button>
+      
+
+     <img style="-webkit-user-select: none;margin: auto;" src="https://img.seoul.co.kr/img/upload/2017/10/07/SSI_20171007154542_O2.jpg">
+    <h6> <i>주소:충청남도 천안시 동남구 신부동</i> </h6> <h6> <i>대표:이주환 </h6> </i> <h6> <i> 전화: 01064863482 </h6> </i>
+    <video src=https://r5---sn-i3belnll.googlevideo.com/videoplayback?expire=1595611678&ei=vsUaX4mNOIGB1gKisLfgAQ&ip=86.34.133.118&id=o-AJCo9nr26AJ07s_zWb4rbrjJ7-07-0xwTX7pEHuJe7V1&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=73217338&ratebypass=yes&dur=3798.064&lmt=1586532583755930&fvip=5&fexp=23812954,23883097,23927566&beids=23927566&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgKfFyIEG8DqKYE6EUMFBDyci6ZZ0qHEL3vgaEQIvUshUCIQCaXRo3t4MgFBTll8QbtPrj8SXvKFT6w01_ll_A9T1P3Q%3D%3D&video_id=77REicO0d1Q&title=%5B1%EC%8B%9C%EA%B0%84%2C+1hour%5D++On+My+Way+%28Ryan+Enzed+Remix%29+-+Alan+Walker%2C+Sabrina+Carpenter+%26+Farruko&rm=sn-4g5e6y76&req_id=12b78120457a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-ab02a0n-jww67r&cms_redirect=yes&mh=J8&mip=117.111.2.82&mm=29&mn=sn-i3belnll&ms=rdu&mt=1595590048&mv=m&mvi=5&pl=26&usequic=no&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,usequic&lsig=AG3C_xAwRQIhAKLsVCvObDR15nmXTkQIJPRHK9je1KHOn0VXS9-n9SFZAiBMhfuw-6VgvlbN_2Smde_3fd5isnTXrT7wJr8yYk9Zow%3D%3D controls/>
