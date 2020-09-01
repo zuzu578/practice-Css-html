@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>css</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header><h1>네비게이션 바 만들기</h1></header>
+
+    <nav>
+      <ul class="nav-container">
+        <li class="nav-item"> <a href="">FrogIT주식회사</a> </li>
+        <li class="nav-item"> <a href="">소개</a> </li>
+        <li class="nav-item"> <a href="">제품</a> </li>
+        <li class="nav-item"> <a href="">서비스</a> </li>
+        <li class="nav-item"> <a href="">고객지원</a> </li>
+      </ul>
+    </nav>
+    <script src="script.js"></script>
+  </body>
+</html>

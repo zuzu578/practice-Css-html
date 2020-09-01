@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<header>
+		<h1>op.gg </h1>
+    
+    
+	</header>
+	<nav>
+		<ul class="nav-container">
+			<li class="nav-item"> <a href="">#집에있자 </a> </li>
+			<li class="nav-item"> <a href=""> 챔피언분석 </a></li>
+			<li class="nav-item"> <a href=""> 통계 </a></li>
+			<li class="nav-item"> <a href=""> 랭킹</a> </li>
+			<li class="nav-item"> <a href=""> 프로관전 </a></li>
+			<li class="nav-item"> <a href=""> 멀티서치 </a></li>
+			<li class="nav-item"> <a href=""> OP셜 </a></li>
+			<li class="nav-item"> <a href=""> 커뮤니티 </a></li>
+		</ul>
+	</nav>
+  <p><a href="www.naver.com"><지금 바로 무료플레이> 국산 액션 배틀로얄, 헌터스 아레나 오픈</a></p>
+
+
+
+
+	
+    <img class ="max-small" src="https://attach.s.op.gg/logo/20200828151044.4a78b4395fded50d3c98c64abf7cbd43.png" title="공허의 습격" alt="OP.GG Logo (공허의 습격)" class="Image">
+
+<form action= "www.naver.com">
+<div class="mx-auto Search-bar input-group mb-3">
+  <input type="text" class="form-control" placeholder=" 소환사명,소환사명,..."aria-describedby="basic-addon2">
+  <div class="input-group-append">
+    <span class="input-group-text" id="basic-addon2"></span>
+  </div>
+</div>
+</form>
+
+
+<h2> OP.GG Talk 인기글</h2>
+
+<ol>
+
+
+   
+<li><a href="www.naver.com">내가 보려고 만든 스킬 색깔별 정리</a> [261]
+7시간 전 죽음앞에서다시빛나라</li>
+
+<li><a href="www.naver.com">님들 리븐 시급 얼마 받는지앎?</a> [151]
+10시간 전 유미원챔유저</li>
+
+<li><a href="www.naver.com">뭔가 잘못된 도박근절 광고</a> [166]
+11시간 전 험버트험버트</li>
+
+<li><a href="www.naver.com">"명분도 잃은채 왜 싸우는거지?"</a> [105]
+11시간 전 유우우미조이</li>
+
+<li><a href="www.naver.com">희귀병 강아지.... </a>[91]</li>
+
+
+
+</ol> 
+
+
+
+
+</ol>
+
+
+
+	<script src="script.js">
+	</script>
+</body>
+
+</html>

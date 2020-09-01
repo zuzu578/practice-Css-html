@@ -1,0 +1,67 @@
+
+
+
+body{
+  position: relative;
+  left:550px;
+  top: 100px;
+
+
+ width: 300px;
+ height: 300px;
+ border: 1px solid #dadce0;
+ text-align: center;
+ border-radius: 3%;
+
+}
+
+
+.title{
+  
+  margin-top:10%;
+  text-align: center;
+  font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+ font-weight: 400;
+}
+}
+
+.subtitle{
+ text-align: center;
+ margin-top: 5%;
+ font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+ font-weight: 400;
+}
+
+.email{
+
+ text-align: center;
+ margin-top: 10%;
+ margin-bottom:3%;
+ font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+ font-weight: 400;
+}
+
+
+.password{
+
+ text-align: center;
+ margin-top: 10%;
+ font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+ font-weight: 400;
+}
+
+
+
+.button {
+  position: relative;
+  left: 160px;
+  margin-top: 20px;
+  list-style-type: none;
+  background-color:#1a73e8;
+  color: white;
+  width: 80px;
+  height: 30px;
+  border-radius: 10%;
+  line-height: 30px;
+  cursor: pointer;
+}

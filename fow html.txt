@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<header>
+		<h1> FOW.KR</h1>
+   <div class="search"> 
+     <input type= "text" > 
+     <div class="button">
+       <button> </button>
+       
+
+   </div>
+    
+	</header>
+
+
+	<nav>
+		<ul class="nav-container">
+			<li class="nav-item"> <a href="">홈 </a> </li>
+			<li class="nav-item"> <a href="">관전하기 </a> </li>
+			<li class="nav-item"> <a href="">다시보기 </a> </li>
+
+			<li class="nav-item"> <a href="">챔피언 </a> </li>
+			<li class="nav-item"> <a href="">챔피언통계 </a> </li>
+			<li class="nav-item"> <a href="">랭킹 </a> </li>
+			<li class="nav-item"> <a href="">자유랭킹</a> </li>
+			<li class="nav-item"> <a href="">장인랭킹</a> </li>
+			<li class="nav-item"> <a href="">픽순위 </a> </li>
+			<li class="nav-item"> <a href="">밴순위 </a> </li>
+			<li class="nav-item"> <a href="">멀티서치 </a> </li>
+
+
+      
+
+
+
+	</nav>
+
+
+   <h3>- 금주의 로테이션 챔피언 ( 2020-08-25 ~ 2020-08-31 )</h3>
+
+
+
+  <h4>- 현재 진행중인 챔피언 및 스킨 세일 ( 챔피언 이미지를 클릭하면 3D 모델을 볼 수 있습니다. )</h4>
+ <ul class="patch">
+  
+  <h4>- 최근 패치 내용</h4>
+  <li> <a href="www.naver.com">10.17 패치 내용 보기</a></li>
+  <li> <a href="www.naver.com">10.16 패치 내용 보기</a></li>
+  
+
+ </ul>
+<h5>- 밴, 픽, 승률 TOP 10 ( 랭크게임 전체 )</h5>
+
+	<script src="script.js">
+	</script>
+
+
+  <table>
+
+    <caption> 
+</body>
+
+</html>
