@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>repl.it</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="nav-container1">
+<div class="nav-item">OP.GG</div>
+<div class="nav-item">리그오브레전드</div>
+<div class="nav-item">NEXT</div>
+<div class="nav-item">배틀그라운드</div>
+<div class="nav-item">오버워치</div>
+<div class="nav-item">포트나이트</div>
+<div class="nav-item">레인보우식스 시즈</div>
+<div class="nav-item">톡피지지</div>
+<div class="nav-item">한국어</div>
+<div class="nav-item">로그인</div>
+</div>
+
+<div class="nav-container2">
+<div class=" nav-item">#집에있자</div>
+<div class=" nav-item">챔피언분석</div>
+<div class=" nav-item">통계</div>
+<div class=" nav-item">랭킹</div>
+<div class=" nav-item">프로관전</div>
+<div class=" nav-item">멀티서치</div>
+<div class=" nav-item">op셜</div>
+<div class=" nav-item">커뮤니티</div>
+</div>
+
+
+
+
+<img class ="max-small" src="https://attach.s.op.gg/logo/20200828151044.4a78b4395fded50d3c98c64abf7cbd43.png" title="공허의 습격" alt="OP.GG Logo (공허의 습격)" class="Image">
+
+
+<div class="mx-auto search-bar input-group mb-3" >
+<input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+<div class="input-group-append">
+</div>
+</div>
+
+<div class="text-container">
+  <div class="title">
+  <div class= "best">OP.GG Talk인기글</div>
+  </div>
+  <div class="content">
+  <div class= "text">후방주의) 취한 여직원 집에 데려다주는 상사 ㅗㅜㅑ   [100] 9시간 전 옵지닌 </div>
+  <div class= "text">??:마스크 썻는데 문제있음? [175]
+  7시간 전 코인이 </div>
+  <div class= "text">탑이 어떤라인인지 보여주는 짤 [121]
+  9시간 전 개와고양이를사랑하는자 </div>
+  <div class= "text"> 무슨 태풍이 한반도 보다 크냐 [190]
+  9시간 전 맑은하늘물</div>
+  <div class= "text">이거 실화냐? </div>
+  <div class= "text"> 아줫같네</div>
+  <div class= "text"> 씨발새끼야</div>
+  <div class= "text"> 와 이즈 점멸봄?</div>
+  <div class= "text"> 토악질나오는 롤 충들 </div>
+  <div class= "text">소문 ... </div>
+  </div>
+</div>
+
+</div>
+<div class="information">
+<div class="infor">About OP.GG</div>
+<div class="infor">로고 히스토리</div>
+<div class="infor">개인정보처리방침</div>
+<div class="infor">도움말</div>
+<div class="infor">제휴</div>
+<div class="infor">문의/피드백</div>
+<div class="infor">채용</div>
+</div>
+<div class="chronicle">
+<div class="chro">© 2012-2020 OP.GG. OP.GG isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+</div>
+
+
+</div>  
+
+</body>
+
+</html>
