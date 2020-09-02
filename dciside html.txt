@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+    <div class="header">
+      <div class="header-items"><strong>오늘의 이슈</strong> 하이선 혜민병원 조준기 조주빈 </div>
+      <form>
+    <div class="saerch-bar">
+    
+      
+      <input type = "text"  placeholder="갤러리&통합검색">
+      <div class="button">
+        <input type="submit"> 
+        
+      
+      </form>
+    
+
+    </div>
+    </header>
+   <div class="nav-container">
+      <div class="nav-items">갤러리+</div>
+      <div class="nav-items">m.갤러리</div>
+      <div class="nav-items">갤로그</div>
+      <div class="nav-items">뉴스</div>
+      <div class="nav-items">이벤트</div>
+      <div class="nav-items">만두몰</div>
+      <div class="nav-items">디시위키</div>
+      <div class="nav-items">어제 1,059,917개 게시글 등록</div>
+
+    </div>
+    <div class="Log-in-box">
+
+    <form action="www.dcinisde.com">
+      <div class="email">
+      <input type= "email" id="loginId" name="loginId" placeholder="ID" >
+      </div>
+      <div class="password">
+        <input tpye="password" pwd="loginPw" name="password" placeholder="Password" >
+     <div class="button">
+       <button type="submit"  disabled="disabled">로그인</button>
+       <div class="account">
+         <div class="sign up">회원가입    아이디 비밀번호 찾기</div>
+       </div>
+       
+
+     </div>
+
+     <div class="check-box">  
+       <input type="checkbox" id="keepLogin" name="keepLogin">
+          <label for="keepLogin"><span>id저장</span></label>
+     </div>
+      </div>
+    
+    </form>
+    
+
+    <div class="chart-box">
+      <div class="chart-title"> 실북갤 </div>
+      <div class="chart-subtitle">갤러리 마이너갤러리</div>
+      
+        <div clas="chartnumber">1 인터넷방송1</div>
+        <div clas="chartnumber">2 컴퓨터 본체</div>
+        <div clas="chartnumber">3 국내야구</div>
+        <div clas="chartnumber">4 리그 오브 레전드</div>
+        <div clas="chartnumber">5 해외야구</div>
+        <div clas="chartnumber">6 만화</div>
+        <div clas="chartnumber">7 NBA</div>
+        <div clas="chartnumber">8 판타지</div>
+        <div clas="chartnumber">9 스트리머</div>
+        <div clas="chartnumber">10 기타 국내 드라마</div>
+    </div>
+
+
+
+
+
+
+
+
+    </div>
+
+    <div class="Contents-Box1">
+     <div class="title">HIT 갤러리 </div>
+     <div class= "contents-1">
+       <div class="subtitle">네모부터....</div>
+       <div class="name"> 일렉트릭기타 </div>
+       <div class="infor"> 댓글 60개 추천 9건 </div>
+     </div>
+     <div class="contents-2">
+        <div class="subtitle">인형과 함께한 여행..</div>
+        <div class="name"> 돌피드림 </div>
+        <div class="infor">댓글 545개 추천 272건 
+     </div>
+        <div class="contents-3">
+         <div class="subtitle">대회나가고 싶어서 쓰는 글 </div>
+         <div class= "name"> 마라톤 </div>
+         <div class="infor">댓글 208개 추천 169건</div>
+        </div>
+        <div class="contents-4">
+         <div class="subtitle">망한거..</div>
+         <div class="name">2012-08-31</div>
+         <div class="infor">댓글 457개 추천 45건 </div>
+        </div>
+    
+
+        </div>
+    </div>
+    <div class="Contents-Box2">
+      <div class="title">초개념</div>
+      <div class= "contents-01">
+       <div class="subtitle1">[엠겔]DaydreamingY..</div>
+       
+     </div>
+      <div class="contents-02">
+        <div class="subtitle2">[카연]마사토끼와함께..4화</div>
+       
+     </div>
+      <div class="contents-03">
+         <div class="subtitle3">[멍갤]폼피츠 해피가 ..!</div>
+     
+      <div class="contents-04">
+         <div class="subtitle4">[레갤]황제의사열식만들었다.</div>
+         
+       <div class="contents-05">
+         <div class="subtitle5">[중갤]발더스게이트3 정보.</div>
+         
+         <div class="contents-06">
+         <div class="subtitle6">[레갤]레이저크레스트....</div>
+
+         <div class="contents-07">
+         <div class="subtitle7">[모갤]1/48쏘오련 252mm중자주곡사포 보구가~ </div>
+
+         </div>
+         </div>
+        <ul class="board">
+        <li>[한갤] 이쯤에서 다시보는 신혼생활 다재</li>
+          <li>[문갤] 사진 많음) 나무판으로 념글 프리패스 하는법</li>
+          <li>[디갤] 영업 제한 당한 홍대 근황</li>
+          <li>[건갤] hg발바렉스 빔샤벨로 안광 만들어줬음 보구가~!</li>
+          <li>[에갤] 그로자에 오픈도트 붙여봤음</li>
+          <li>[동기] 안씻으려는자vs씻기려는자</li>
+        </ul>
+        <ul class="board2">
+          <li>[기음] 이시국제주갔다왔서유 .</li>
+          <li>[모갤] '그'티셔츠 와서 리뷰,착샷 인증</li>
+          <li>[I갤] 낙관 모음</li>
+
+        </ul>
+
+
+        
+    
+        
+    
+
+  </body>
+</html>

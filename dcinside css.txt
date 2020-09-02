@@ -1,0 +1,248 @@
+body{
+ background-image: url(https://nstatic.dcinside.com/dc/logo_day/dc_logo_200902.gif);
+ background-repeat: no-repeat;
+}
+.check-box{
+  font-size: 10px;
+ 
+
+
+}
+
+.chart-title{
+  padding:5%;
+  border-bottom: 1px dotted  gray; 
+ 
+
+}
+
+.chart-subtitle{
+  position: relative;
+  left: 80px;
+  font-size: 5px;
+  bottom: 30px;
+  cursor: pointer;
+
+
+
+}
+
+.chartnumber{
+  cursor: pointer;
+
+
+}
+
+
+
+.saerch-bar{
+  margin-left: 35%;
+  margin-top: 2%;
+  height: 40px;
+  width: 400px;
+  background-color: white;
+  border: 6px solid  #3d37ad;
+  
+}
+
+.chart-box{
+  margin-top: 10%;
+  height:300px ;
+  width: 220px ;
+  border-bottom:1px soild gray;
+  border-top:1px solid gray;
+  border-right: 1px solid gray ;
+  border-left: 1px solid gray ;
+}
+
+.account{
+  border-top : 1px dotted  gray ; 
+}
+input[type=submit]
+{outline:none;
+border:0;
+width:10%;
+padding:2%;
+float: right;
+margin-bottom:40px;
+cursor: pointer;
+
+}
+
+input[type=text] 
+{
+  font-size: 16px;
+  width: 325px;
+  padding: 10px;
+  border: 0px;
+  outline: none;
+  float: left;
+ 
+}
+.header-items{
+ text-align:center;
+  cursor: pointer;
+ 
+}
+
+.button{
+
+padding:2%;
+
+}
+.account{
+  font-size: 10px;
+  padding:4%;
+}
+.email{
+  padding: 1%;
+  margin-top:10px;
+  margin-left: 14px;
+}
+.password{
+  padding: 1%;
+  margin-top:5px;
+    margin-left: 14px;
+}
+
+
+.Log-in-box{
+  position: relative;
+  left: 87%;
+  margin-top:5%;
+  height:150px;
+  width: 220px;
+  border-top: 1px solid #3d37ad;
+  border-bottom: 1px solid #3d37ad;
+  border-left: 1px solid #3d37ad;
+  border-right: 1px solid #3d37ad;
+  
+
+}
+.nav-container{
+  width: 1400px;
+  height:48px;
+  background-color: #3d37ad;
+  margin-top: 10%;
+  border-bottom: 1px solid black;
+
+
+}
+
+.nav-items{
+  color: white;
+  display: inline;
+  line-height: 48px;
+  cursor: pointer;
+  margin: 3%;
+}
+
+.title{
+  color: #3d37ad;
+  font-size: 20px;
+  margin-left: 200px;
+  border-bottom: 2px solid  #3d37ad; 
+  margin-right: 200px;
+ 
+
+
+}
+.contents-1{
+  font-size: 17px;
+  margin-left:15%;
+  margin-top: 10%;
+  
+
+}
+.subtitle{
+  font-size: 17px;
+}
+.contents-2{
+  font-size: 17px;
+  margin-left:30%;
+  position: relative;
+  bottom: 70px;
+
+}
+.contents-3{
+    font-size: 17px;
+  margin-left:30%;
+  position: relative;
+  bottom: 70px;
+
+
+}
+
+.contents-4{
+   font-size: 17px;
+  margin-left:60%;
+  position: relative;
+  bottom: 140px;
+
+}
+.subtitle1{
+    font-size: 17px;
+  margin-left:15%;
+  margin-top: 10%;
+  
+}
+.subtitle2{
+ font-size: 17px;
+  margin-left:30%;
+  position: relative;
+  bottom: 25px;
+
+}
+.subtitle3{
+    font-size: 17px;
+  margin-left:50%;
+  position: relative;
+  bottom: 49px;
+
+
+}
+.subtitle4{
+   font-size: 17px;
+  margin-left:68%;
+  position: relative;
+  bottom: 75px;
+}
+.subtitle5{
+    font-size: 17px;
+  margin-left:15%;
+  margin-top: 10%;
+  
+
+
+}
+.subtitle6{
+   font-size: 17px;
+  margin-left:66%;
+  position: relative;
+  bottom: 25px;
+
+
+}
+.subtitle7{
+     font-size: 17px;
+  margin-left:32%;
+  position: relative;
+  bottom: 47px;
+
+
+}
+.board{
+  list-style-type: none;
+  border-top: 1px dotted gray;
+  margin-left:  200px;
+  margin-right: 200px;
+}
+.board2{
+   list-style-type: none;
+ 
+  margin-left:  800px;
+  margin-right: 200px;
+  position: relative;
+  bottom: 146px;
+
+}
