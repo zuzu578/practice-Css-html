@@ -1,0 +1,266 @@
+a { text-decoration:none }
+
+
+body{
+  margin:0%;
+}
+
+.site-path{
+
+  text-align: right;
+  position: relative;
+  top:20px  ;
+  right: 80px;
+}
+.log-in-title1{
+  position: relative;
+  left:480px;
+  top:120px;
+}
+
+.log-in-title2{
+  position: relative;
+  left:480px;
+  top:120px;
+
+}
+.password-title{
+ position: relative;
+ top:30px;
+}
+
+
+.login-button{
+  position: relative;
+  left:440px;
+  bottom: 95px;
+  border-radius: 3px;
+  border:1px solid #137cc2;
+  height: 90px; 
+  width:100px; 
+  background-color: #137cc2;
+  cursor: pointer;
+}
+
+
+.check-box{
+position: relative;
+bottom:84px;
+right: 60px;
+
+}
+.button{
+color: white;
+margin-top: 30%;
+
+}
+
+
+
+.nav-container{
+ border:1px solid gray; 
+ height: 118px;
+}
+.title{
+  font-size:30px; 
+  padding:1%;
+  margin-left: 2%;
+ 
+
+}
+.account{
+float: right;
+position: relative;
+bottom:30%;
+
+}
+.main-title{
+  text-align: center;
+  margin-top:4%;
+  font-size:40px;
+  font-weight: bold;
+}
+.sub-title{
+  text-align: center;
+  
+  margin-top:2%;
+  
+}
+.items1{
+  display: flex;
+  position: relative;
+  left: 33%;
+  font-weight: bold;
+ 
+}
+.nav-items1{
+  padding:1%;
+  margin-right:1%;
+}
+
+ 
+
+.account{
+  display: flex; 
+  font-size:12px;
+ 
+}
+.log-in-box{
+  text-align:center;
+  margin-top: 2%;
+  border:1px solid gray; 
+  width:600px;
+  height: 200px; 
+  margin-left: 29%;
+  border-radius: 1%;
+}
+
+.ID{
+  border:1px solid gray;
+  height: 20px;
+  width: 200px;
+  padding:10px;
+  position: relative;
+  left : 32%;
+  margin-top: 6%;
+  border-radius: 4%;
+
+
+}
+.password{
+   border:1px solid gray;
+  height: 20px;
+  width: 200px;
+  padding:10px;
+  position: relative;
+  left : 32%;
+  margin-top: 2%;
+  border-radius: 4%;
+
+
+}
+
+input[type=email]{
+  border:0;
+  text-align:left;
+  float: left;
+  outline:none;
+  padding:3px;
+  
+}
+
+input[type=password]{
+  border:0;
+  text-align:left;
+  float: left;
+  outline:none;
+  padding:3px;
+}
+
+.account-information-box{
+  text-align:center;
+  margin-top:4%;
+}
+.find-account{
+  position: relative;
+  right:146px;
+}
+.find-account-button{
+ position: relative;
+ left: 700px;
+ bottom:21px;
+ border:1px solid gray; 
+ width: 200px; 
+ height: 38px;
+ line-height: 40px;
+ border-radius: 4%;
+ cursor: pointer;
+
+}
+
+.sign-up{
+   position: relative;
+  right:205px;
+
+
+}
+
+.sign-up-button{
+position: relative;
+ left: 700px;
+ bottom:21px;
+ border:1px solid gray; 
+ width: 200px; 
+ height: 38px;
+ line-height: 40px;
+ border-radius: 4%;
+ cursor: pointer;
+ 
+
+}
+
+.Support-title{
+   margin-left: 500px; 
+
+}
+.Support-subtitle{
+  margin-left: 500px; 
+  position: relative;
+  top:40px;
+}
+
+.About-tiltle{
+ margin-left: 130px;
+position: relative;
+  top:85px;
+}
+
+.About-subtitle{
+
+  margin-left:130px;
+  position: relative;
+  top:120px;
+}
+
+.under-box{
+  border:1px solid gray; 
+  margin-top:5%;
+  height:400px;
+  background-color:#dae1e6; 
+}
+
+
+.under-box2{
+  background-color:#dae1e6; 
+}
+
+.under-titlte1{
+  margin-left:100px; 
+  position: relative;
+  top: 20px;
+}
+.under-titlte2{
+  margin-left: 200px;
+  position: relative;
+  bottom:2px;
+}
+
+.under-titlte3{
+  margin-left:360px; 
+  position: relative;
+  bottom:23px;
+}
+
+.under-subtitle{
+  text-align:Center;
+  margin-right:300px;
+}
+.under-subtitle2{
+  text-align:center;
+  margin-right:227px;
+}
+.top-button-box{
+ position: fixed;
+ bottom: 5px;
+ right: 5px;
+}

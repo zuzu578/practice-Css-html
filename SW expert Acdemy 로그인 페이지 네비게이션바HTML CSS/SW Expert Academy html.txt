@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+    
+    <div class="nav-container">
+      <div class="main">
+      <div class="title"> SW Expert Academy</div>
+      </div>
+      <div class="items1">
+      <div class="nav-items1"><a href="">CODE</a></div>
+      <div class="nav-items1"><a href="">LEARN</a></div>
+      <div class="nav-items1"><a href="">TALK</a></div>
+      <div class="nav-items1"><a href="">Bixby</a></div>
+      <div class="nav-items1"><a href="">CODEBATTLE</a></div>
+      </div>
+      <div class="site-path">
+      <div class="path"><a href=""> Home</a>> <strong>Login</strong> </div>
+    </div>
+      <div class="account">
+        <div class="nav-items2"><a href="">로그인</a></div>
+          <div class="nav-items2"><a href="">회원가입</a></div>
+      </div>
+    </div>
+
+
+    <div class="main-contents-box">
+    <div class="main-title">로그인</div>
+    <div class="sub-title">SW Expert Academy의 회원이 되시면 보다 다양한 서비스를 제공 받으실 수 있습니다.
+    회원님께서 가입하신 아이디와 비밀번호를 입력해 주세요.</div>
+    </div>
+    <div class="log-in-title-box">
+      <div class="log-in-title1">
+      <div class="id-title">아이디</div>
+      </div>
+      <div class="log-in-title2">
+      <div class="password-title">비밀번호</div>
+      </div>
+    </div>
+    <div class="log-in-box">
+      <form>
+      <div class="ID">
+
+    <input type="email" id="loginId" name="loginId" placeholder="이메일형식으로입력해주세요." >
+      </div>
+      <div class="password">
+        
+        <input type="password" id="loginPw" name="password" placeholder="비밀번호를 입력해 주세요." >
+       </div>
+
+       <div class="login-button">
+         <div class="button"> 로그인 </div>
+         </div>
+
+         <div class="check-box">
+          <input type="checkbox">아이디 저장 
+         </div>
+      </form>
+
+    </div>
+
+    <div class="account-information-box">
+      <div class="question-box1">
+      <div class="find-account">아이디/비밀번호가 생각나지 않으세요?</div>
+      </div>
+      <div class="find-account-box">
+      <div class="find-account-button"><a href="">아이디/비밀번호 찾기</a> </div>
+      </div>
+        <div class="question-box2">
+      <div class="sign-up">아직 회원이 아니세요?</div>
+        </div>
+        <div class="sign-up-box">
+      <div class="sign-up-button"><a href="">회원가입</a></div>
+      </div>
+    </div>
+    </header>
+    
+  <div class="under-box">
+    <div class="About-box">
+      <div class="About-tiltle">
+        About   
+      </div>
+      <div class="About-subtitle">
+        <div class="about-sub"> <a href="">SW Expert Academy</a></div>
+        <div class="about-sub"> <a href="">포인트와 랭킹</a></div>
+        <div class="about-sub"> <a href="">학습 가이드</a></div>
+      </div>
+    <div class="Support-box">
+      <div class="Support-title">
+        Support   
+      </div>
+      <div class="Support-subtitle">
+        <div class="Support-sub"><a href="">공지사항</a></div>
+        <div class="Support-sub"><a href="">FAQ</a></div>
+        <div class="Support-sub"><a href="">Q&A</a></div>
+        <div class="Support-sub"><a href="">사이트 오류 제보</a></div>
+        <div class="Support-sub"><a href="">사이트 맵</a></div>
+
+      </div>
+    </div>
+    </div>
+  </div>
+  <div class="under-box2"> 
+    <div class="under-titlte1">
+     이용 약관    
+    </div>
+    <div class="under-titlte2">
+      개인정보처리방침
+    </div>
+      <div class="under-titlte3">
+        이메일 무단수집 거부
+      </div>
+
+    <div class="under-subtitle">
+      1366*768 이상 해상도에 최적화되어 있으며 Google Chrome 브라우저를 권장합니다. (Internet Explorer 11 이상 지원)
+    <div class="under-subtitle2">
+      본 사이트의 콘텐츠는 저작권법의 보호를 받는 바 무단 전재, 복사, 배포 등을 금합니다.
+    </div>
+  </div>
+  <div class="top-button-box">
+
+  <a href="#">TOP</a>
+  
+  </div>
+  </div>
+ 
+ 
+        
+
+
+  </body>
+</html>
