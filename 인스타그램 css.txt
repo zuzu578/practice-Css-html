@@ -1,0 +1,325 @@
+a{
+
+  text-decoration: none;
+
+  color:#2ba0ff;
+
+}
+
+ 
+
+p1{
+
+  float: left;
+
+  margin-left: 20%;
+
+  
+
+}
+
+p2{
+
+  margin-left:34%;
+
+  position: relative;
+
+  top:20px;
+
+}
+
+p3{
+
+  position: relative;
+
+  top:20px;
+
+}
+
+p4{
+
+  position: relative;
+
+  top:20px;
+
+ 
+
+}
+
+input[type=text]{
+
+  border:0;
+
+  text-align:left;
+
+  float: left;
+
+  outline:none;
+
+  width:264px;
+
+  height:37px;
+
+ 
+
+}
+
+.id-box{
+
+  border:1px solid gray;
+
+  height: 40px;
+
+  width:268px;
+
+  margin-left: 55px;
+
+}
+
+.password-box{
+
+   border:1px solid gray;
+
+  height: 40px;
+
+  width:268px;
+
+  margin-left: 55px;
+
+ 
+
+}
+
+.sign-up-box2{
+
+  position: relative;
+
+  bottom:20px;
+
+  left: 100px;
+
+  text-align: center;
+
+ 
+
+}
+
+ 
+
+body{
+
+  margin:0%;
+
+}
+
+ 
+
+.log-in-container{
+
+  border:1px solid gray;
+
+  margin-left: 50%;
+
+  margin-top:8%;
+
+  width: 380px;
+
+  height: 400px;
+
+  border-radius:3px;
+
+}
+
+ 
+
+ 
+
+.log-in-box{
+
+  text-align:center;
+
+  margin-top:6%;
+
+}
+
+ 
+
+.password-box{
+
+  margin-top:3%;
+
+}
+
+ 
+
+.log-in-button-box{
+
+  margin-top:6%;
+
+  
+
+}
+
+ 
+
+.login-button{
+
+  border: 1px solid #2ba0ff;
+
+  width:240px;
+
+  height:22px ;
+
+  color: white;
+
+  background-color:#2ba0ff;
+
+  margin-left: 19%;
+
+  border-radius: 7px;
+
+  padding:1%;
+
+  cursor: pointer;
+
+  
+
+}
+
+.or-container{
+
+  border-top:1px solid gray;
+
+  margin-top:8%;
+
+  margin-left: 14%;
+
+  margin-right:8%;
+
+}
+
+.or-box{
+
+  margin-top:4%;
+
+}
+
+.facebook-login-container{
+
+  margin-top:3%;
+
+  margin-left:3%;
+
+  color:blue;
+
+  font-weight: bold;
+
+  padding:1%;
+
+}
+
+ 
+
+.forgot-container{
+
+  margin-top:5%;
+
+  margin-left: 4%;
+
+  font-size:14px;
+
+}
+
+ 
+
+.sign-up-container{
+
+   border:1px solid gray;
+
+  margin-left: 50%;
+
+  margin-top:1%;
+
+  width: 380px;
+
+  height: 70px;
+
+  border-radius:3px;
+
+  
+
+  
+
+}
+
+.sign-up-box{
+
+  text-align:center;
+
+  margin-top:7%;
+
+}
+
+ 
+
+.download-container{
+
+  margin-right:20%;
+
+  margin-top:2%;
+
+ text-align: center;
+
+}
+
+.under-nav-container{
+
+  margin-top:16%;
+
+  margin-left:15%;
+
+  margin-bottom:3%;
+
+}
+
+ 
+
+.items{
+
+  display:inline;
+
+  padding:1%;
+
+}
+
+.under-information-container{
+
+ position: relative;
+
+ bottom:60px;
+
+ left: 80%;
+
+}
+
+ 
+
+  
+
+ 
+
+}
+
+.infor{
+
+  text-align: right;
+
+  
+
+}
+
+ 
+
+ 
+
+ 

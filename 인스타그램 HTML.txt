@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html>
+
+ 
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width">
+
+  <title>repl.it</title>
+
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+ 
+
+<body>
+
+  
+
+  <p1><img src="https://www.instagram.com/static/images/homepage/screenshot5-2x.jpg/5e04169b9308.jpg"width="380" height="700"></p1>
+
+  
+
+  <div class="log-in-container">
+
+    <p2><img src="https://fontmeme.com/images/instagram-new-logo.png"width:"175" height="51"></p2>
+
+  
+
+    <div class="log-in-box">
+
+    <div class="id-box">
+
+      <input type="text" placeholder="전화번호,사용자 이름 또는 이메일">
+
+     </div>
+
+     <div class="password-box">
+
+       <input type="text" placeholder="비밀번호">
+
+     </div>
+
+     <div class="log-in-button-box">
+
+       <div class="login-button">로그인</div>
+
+     </div>
+
+     <div class="or-container">
+
+       <div class="or-box">또는</div>
+
+     </div>
+
+     <div class="facebook-login-container">
+
+       <div class="facebook-login-box">Facebook으로 로그인</div>
+
+     </div>
+
+     <div class="forgot-container">
+
+       <div class="forgot-box">
+
+         비밀번호를 잊으셨나요?
+
+       </div>
+
+     </div>
+
+    </div>
+
+  </div>
+
+  
+
+     </div>
+
+   </div>
+
+  
+
+  <div class="sign-up-container">
+
+    <div class="sign-up-box">계정이 없으신가요?</div>
+
+    <div class="sign-up-box2">
+
+    <a href="">가입하기</a>
+
+  </div>
+
+  </div>
+
+  
+
+  <div class="download-container">
+
+    <div class="download-box">
+
+      앱을 다운로드 하세요
+
+    </div>
+
+    <p3><img src="https://www.instagram.com/static/images/appstore-install-badges/badge_ios_korean-ko.png/4a5c9d62d51b.png"width="136" height="40"></p3>
+
+    <p4><img src="https://www.instagram.com/static/images/appstore-install-badges/badge_android_korean-ko.png/f155b664a93b.png"width="134.28" height="40"> </p4>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  
+
+ 
+
+  <div class="under-nav-container">
+
+    <div class="under-nav-box">
+
+    <div class="items"> 소개 </div>
+
+    <div class="items">  도움말 </div>
+
+       <div class="items">홍보 센터</div>
+
+      <div class="items">API</div>
+
+      <div class="items">채용 정보</div>
+
+      <div class="items">개인정보처리방침</div>
+
+        <div class="items">약관</div>
+
+    <div class="items">위치</div>
+
+   <div class="items">인기 계정</div>
+
+   <div class="items">해시태그</div>
+
+  <div class="items">언어</div>
+
+    </div>
+
+  </div>
+
+  
+
+ 
+
+  <div class="under-information-container">
+
+    <div class="under-box">
+
+      <div class="infor">2020 INSTAGRAM FROM FACEBOOK</div>
+
+ 
+
+  </body>
+
+
+</html>
